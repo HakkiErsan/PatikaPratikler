@@ -1,12 +1,11 @@
 ﻿using System;
 
-namespace consoleapp
+namespace firstconsoleapp
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
             Console.WriteLine("Adinizi girin: ");
             string name = Console.ReadLine();
             Console.WriteLine("Soyadinizi girin: ");
