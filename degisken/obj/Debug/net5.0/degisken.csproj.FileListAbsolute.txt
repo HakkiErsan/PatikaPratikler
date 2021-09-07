@@ -1,0 +1,16 @@
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\degisken\bin\Debug\net5.0\degisken.exe
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\degisken\bin\Debug\net5.0\degisken.deps.json
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\degisken\bin\Debug\net5.0\degisken.runtimeconfig.json
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\degisken\bin\Debug\net5.0\degisken.runtimeconfig.dev.json
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\degisken\bin\Debug\net5.0\degisken.dll
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\degisken\bin\Debug\net5.0\ref\degisken.dll
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\degisken\bin\Debug\net5.0\degisken.pdb
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\degisken\obj\Debug\net5.0\degisken.csproj.AssemblyReference.cache
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\degisken\obj\Debug\net5.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\degisken\obj\Debug\net5.0\degisken.AssemblyInfoInputs.cache
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\degisken\obj\Debug\net5.0\degisken.AssemblyInfo.cs
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\degisken\obj\Debug\net5.0\degisken.csproj.CoreCompileInputs.cache
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\degisken\obj\Debug\net5.0\degisken.dll
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\degisken\obj\Debug\net5.0\ref\degisken.dll
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\degisken\obj\Debug\net5.0\degisken.pdb
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\degisken\obj\Debug\net5.0\degisken.genruntimeconfig.cache
