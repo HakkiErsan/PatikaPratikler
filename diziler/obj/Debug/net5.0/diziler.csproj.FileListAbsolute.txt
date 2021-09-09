@@ -1,0 +1,16 @@
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\diziler\bin\Debug\net5.0\diziler.exe
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\diziler\bin\Debug\net5.0\diziler.deps.json
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\diziler\bin\Debug\net5.0\diziler.runtimeconfig.json
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\diziler\bin\Debug\net5.0\diziler.runtimeconfig.dev.json
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\diziler\bin\Debug\net5.0\diziler.dll
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\diziler\bin\Debug\net5.0\ref\diziler.dll
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\diziler\bin\Debug\net5.0\diziler.pdb
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\diziler\obj\Debug\net5.0\diziler.csproj.AssemblyReference.cache
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\diziler\obj\Debug\net5.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\diziler\obj\Debug\net5.0\diziler.AssemblyInfoInputs.cache
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\diziler\obj\Debug\net5.0\diziler.AssemblyInfo.cs
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\diziler\obj\Debug\net5.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\diziler\obj\Debug\net5.0\diziler.dll
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\diziler\obj\Debug\net5.0\ref\diziler.dll
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\diziler\obj\Debug\net5.0\diziler.pdb
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\diziler\obj\Debug\net5.0\diziler.genruntimeconfig.cache
