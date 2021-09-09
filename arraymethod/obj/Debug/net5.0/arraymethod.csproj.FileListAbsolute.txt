@@ -1,0 +1,16 @@
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\arraymethod\bin\Debug\net5.0\arraymethod.exe
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\arraymethod\bin\Debug\net5.0\arraymethod.deps.json
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\arraymethod\bin\Debug\net5.0\arraymethod.runtimeconfig.json
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\arraymethod\bin\Debug\net5.0\arraymethod.runtimeconfig.dev.json
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\arraymethod\bin\Debug\net5.0\arraymethod.dll
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\arraymethod\bin\Debug\net5.0\ref\arraymethod.dll
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\arraymethod\bin\Debug\net5.0\arraymethod.pdb
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\arraymethod\obj\Debug\net5.0\arraymethod.csproj.AssemblyReference.cache
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\arraymethod\obj\Debug\net5.0\arraymethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\arraymethod\obj\Debug\net5.0\arraymethod.AssemblyInfoInputs.cache
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\arraymethod\obj\Debug\net5.0\arraymethod.AssemblyInfo.cs
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\arraymethod\obj\Debug\net5.0\arraymethod.csproj.CoreCompileInputs.cache
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\arraymethod\obj\Debug\net5.0\arraymethod.dll
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\arraymethod\obj\Debug\net5.0\ref\arraymethod.dll
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\arraymethod\obj\Debug\net5.0\arraymethod.pdb
+C:\Users\hakki\OneDrive\Belgeler\Sites\PratikCs\arraymethod\obj\Debug\net5.0\arraymethod.genruntimeconfig.cache
